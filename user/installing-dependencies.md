@@ -8,7 +8,7 @@ redirect_from:
 
 <div id="toc"></div>
 
-## Installing Packages on Standard Infrastructure
+## Installing Pakgckages on Standard Infrastructure
 
 To install Ubuntu packages that are not included in the default [standard](/user/reference/precise/), use apt-get in the `before_install` step of your `.travis.yml`:
 
